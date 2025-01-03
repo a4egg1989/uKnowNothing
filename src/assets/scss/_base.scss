@@ -1,0 +1,68 @@
+body {
+    background-color: #f6f6f6;
+}
+
+.list-unstyled {
+    list-style: none;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+// sweetalert
+.swal2-container {
+    z-index: 2410;
+}
+
+.swal-content {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-align: left !important;
+}
+
+.confirm-btn-class {
+    text-align: center !important;
+}
+
+.confirm-btn-class {
+    text-align: center !important;
+}
+
+.swal2-actions {
+    margin: 0 1em 0 auto !important;
+}
+
+.dashboardContent {
+    padding: 16px 32px;
+
+    @media (max-width: 480px) {
+        padding: 15px 40px;
+    }
+}
+
+.font-h7 {
+    font-size: 18px;
+}
+
+.text-title {
+    font-size: 32px;
+}
+
+.position-eye {
+    top: 13px;
+    right: 13px;
+}
+
+:root {
+    --primary: #2e2e48;
+    --black: #4a4a4a;
+}
+
+.main {
+    margin-left: 250px;
+}
